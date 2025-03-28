@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Filip/Desktop/Ninth_Descent/Ninth_Descent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Filip/Desktop/Ninth_Descent/Ninth_Descent/Content/ThirdPerson/Maps/Ninth_World.umap",
+				"C:/Users/Filip/Desktop/Ninth_Descent/Ninth_Descent/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"C:/Users/Filip/Desktop/Ninth_Descent/Ninth_Descent/Content/StarterContent/Materials/M_Metal_Rust.uasset",
+				"C:/Users/Filip/Desktop/Ninth_Descent/Ninth_Descent/Content/ThirdPerson/Maps/Layer1_BuiltData.uasset",
+				"C:/Users/Filip/Desktop/Ninth_Descent/Ninth_Descent/Content/ThirdPerson/Maps/Layer1.umap",
+				"C:/Users/Filip/Desktop/Ninth_Descent/Ninth_Descent/Content/StarterContent/Materials/M_VertexColor_Preview.uasset",
+				"C:/Users/Filip/Desktop/Ninth_Descent/Ninth_Descent/Content/StylizedSkymap/materials/cliff_materials/MI_cliff_02_Inst.uasset",
+				"C:/Users/Filip/Desktop/Ninth_Descent/Ninth_Descent/Content/StylizedSkymap/materials/cliff_materials/M_cliff.uasset",
+				"C:/Users/Filip/Desktop/Ninth_Descent/Ninth_Descent/Content/StylizedSkymap/textures/building_textures/base_textures/ground/T_ground_default_BaseColor.uasset",
+				"D:/Project/NinthDescent/Ninth-Descent/Content/ThirdPerson/Maps/Layer1.umap"
+			]
+		}
+	]
+}
