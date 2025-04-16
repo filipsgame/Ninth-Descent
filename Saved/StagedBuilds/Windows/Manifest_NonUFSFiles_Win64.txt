@@ -1,0 +1,17 @@
+Engine/Binaries/Win64/D3D12/D3D12Core.dll	2025-02-23T20:15:44.370Z
+Engine/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2025-02-23T20:15:44.376Z
+Engine/Binaries/Win64/OpenImageDenoise.dll	2025-02-23T20:15:59.241Z
+Engine/Binaries/Win64/tbb.dll	2025-02-23T20:16:05.807Z
+Engine/Binaries/Win64/tbb12.dll	2025-02-23T20:16:05.809Z
+Engine/Binaries/Win64/tbbmalloc.dll	2025-02-23T20:16:05.810Z
+Engine/Binaries/Win64/UnrealGame.exe	2025-02-23T20:17:11.698Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2025-02-23T20:14:13.856Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2025-02-23T20:15:29.390Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2025-02-23T20:15:29.398Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2025-02-23T20:15:29.790Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2025-02-23T20:15:39.384Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2025-02-23T20:15:39.385Z
+Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2025-02-23T20:15:40.406Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2025-02-23T20:15:40.406Z
+Engine/Content/Slate/Cursor/invisible.cur	2025-02-23T20:18:21.212Z
+Ninth_Descent.exe	2025-04-15T18:13:26.926Z
