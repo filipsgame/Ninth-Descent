@@ -8950,3 +8950,14 @@ Möchtest du das Skelett aus diesem Mesh erneut generieren? Dadurch können Anim
 [2025.04.20-23.27.39:889][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
 [2025.04.20-23.27.39:889][840]LogSavePackage: Moving '../../../../../../Users/Hydro/Documents/Unreal Projects/Ninth-Descent/Saved/BP_ThirdPersonCharacter_Auto5D7C0EE414E616525F48ADCB40C5267A8.tmp' to '../../../../../../Users/Hydro/Documents/Unreal Projects/Ninth-Descent/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
 [2025.04.20-23.27.39:890][840]LogFileHelpers: Auto-saving content packages took 0.064
+[2025.04.20-23.30.06:808][715]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 16b...284
+[2025.04.20-23.30.06:808][715]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2025.04.20-23.30.06:990][737]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 16b...284 Access[Expires: 2025.04.21-01.30.07 Remaining: 7200.69] Refresh[Expires: 2025-10-17T19:33:25.779Z Remaining: 15537798.78] State: Valid
+[2025.04.20-23.32.02:696][815]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14325.957031
+[2025.04.20-23.32.03:694][818]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.20-23.32.03:694][818]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14326.622070, Update Interval: 310.417175
+[2025.04.20-23.34.26:019][826]LogDerivedDataCache: C:/Users/Hydro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.20-23.38.12:398][541]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14695.695312
+[2025.04.20-23.38.12:552][551]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.20-23.38.12:552][551]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14695.836914, Update Interval: 334.457825
+[2025.04.20-23.38.14:876][608]LogChaosDD: Creating Chaos Debug Draw Scene for world World_52
